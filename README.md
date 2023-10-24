@@ -5,23 +5,24 @@
 
 ## Acerca de mí
 
-¡Gracias por visitar mi perfil! Soy [Tu Nombre], un apasionado de la tecnología y el desarrollo de software. Aquí encontrarás una variedad de proyectos emocionantes en los que he estado trabajando..
+¡Gracias por visitar mi perfil! Soy XIMBI , un apasionado de la tecnología y el desarrollo de software. Aquí encontrarás una variedad de proyectos emocionantes en los que he estado trabajando.
 
-- 🔭 Actualmente estoy trabajando en [proyecto/empleado actual].
-- 🌱 Estoy aprendiendo [tema emocionante].
+- 🔭 Actualmente estoy trabajando en SRSRAN Spain como DevOps y Tester en el sector de Telecomunicaciones.
+- 🌱 Estoy aprendiendo Desarrollo de aplicaciones web, creacion de servidores, apis, etc.
 - 👯 Estoy abierto a colaboraciones y proyectos interesantes.
-- 💬 Puedes preguntarme sobre [tema de especialización].
-- 📫 Puedes contactarme a través de [tu dirección de correo electrónico].
-- 😄 Pronombres: [tus pronombres].
-- ⚡ Dato curioso: [dato curioso sobre ti].
+- 💬 Puedes preguntarme todo lo que quieras de informatica, intentare ayudar!.
+- 📫 Puedes contactarme a través de asmes0asmes@gmail.com.
+- 😄 Pronombres: XIMBI.
+- ⚡ Dato curioso: Inspiracion Nocturna.
 
 ## Proyectos Destacados
 
 Aquí te muestro algunos de mis proyectos más destacados:
 
-- [Proyecto 1](enlace-al-proyecto-1): Una breve descripción del proyecto 1.
-- [Proyecto 2](enlace-al-proyecto-2): Una breve descripción del proyecto 2.
-- [Proyecto 3](enlace-al-proyecto-3): Una breve descripción del proyecto 3.
+- [StudyBuddy](https://studybuddy.ximbi1.repl.co): Una sencilla pagina para usar cuando estudias que incorpora musica relajante de fondo con un fondo tranquilo.
+- [CalmTrip](https://fondos.ximbi1.repl.co): Pagina web para Meta Quest2 donde te mueves por distintos escenarios con musica de fondo.
+- [SpaceChat](https://space.ximbi1.repl.co/): Chat en vivo usando socket.io que admite ciertos comandos entre otras funciones.
+- [ChatRoom](https://chat.ximbi1.repl.co/): Chat echo con PHP que mantiene las conversaciones antiguas ya que se usa un fichero coo medio, tiene varias salas de chat y sigue en desarrollo.
 
 ## Estadísticas de GitHub
 
