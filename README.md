@@ -1,5 +1,5 @@
 ![](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
-# ¡Hola, bienvenido a mi rincón en GitHub! 👋
+# ¡Hola, bienvenido, soy XIMBI! 
 
 [![GitHub followers](https://img.shields.io/github/followers/ximbi1?label=Sígueme&style=social)](https://github.com/ximbi1)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ximbi1?label=Sígueme&style=social)](https://twitter.com/ximbi1)
