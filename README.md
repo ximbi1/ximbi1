@@ -1,7 +1,7 @@
 # ¡Hola, bienvenido a mi rincón en GitHub! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/tu_usuario?label=Sígueme&style=social)](https://github.com/ximbi1)
-[![Twitter Follow](https://img.shields.io/twitter/follow/tu_usuario?label=Sígueme&style=social)](https://twitter.com/ximbi1)
+[![GitHub followers](https://img.shields.io/github/followers/ximbi1?label=Sígueme&style=social)](https://github.com/ximbi1)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ximbi1?label=Sígueme&style=social)](https://twitter.com/ximbi1)
 
 ## Acerca de mí
 
@@ -25,7 +25,7 @@ Aquí te muestro algunos de mis proyectos más destacados:
 
 ## Estadísticas de GitHub
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)](https://github.com/ximbi1)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ximbi1&show_icons=true&theme=radical)](https://github.com/ximbi1)
 
 ## Contacto
 
