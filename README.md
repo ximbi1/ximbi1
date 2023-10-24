@@ -22,7 +22,7 @@
 
 Aquí te muestro algunos de mis proyectos más destacados:
 - <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/> [XimbiLand](https://ximbiland.ximbi1.repl.co/): Pagina web ambientada a club penguin para interactuar con otra gente, esta en desarrollo.
-- <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/> [StudyBuddy](https://studybuddy.ximbi1.repl.co): Una sencilla pagina para usar cuando estudias que incorpora musica relajante de fondo con un fondo tranquilo.
+- <img src="https://cultofthepartyparrot.com/parrots/meldparrot.gif" width="36" height="25"/> [StudyBuddy](https://studybuddy.ximbi1.repl.co): Una sencilla pagina para usar cuando estudias que incorpora musica relajante de fondo con un fondo tranquilo.
 - <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/> [CalmTrip](https://fondos.ximbi1.repl.co): Pagina web para Meta Quest2 donde te mueves por distintos escenarios con musica de fondo.
 - <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/> [UpTempo](https://tiempo.ximbi1.repl.co/): Pagina donde puedes consultar la temperatura entre otra informacion en tiempo real.
 - <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/> [SpaceChat](https://space.ximbi1.repl.co/): Chat en vivo usando socket.io que admite ciertos comandos entre otras funciones.
