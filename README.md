@@ -27,6 +27,18 @@ Aquí te muestro algunos de mis proyectos más destacados:
 
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ximbi1&show_icons=true&theme=radical)](https://github.com/ximbi1)
 
+
+## Habilidades y Tecnologías
+
+¡Aquí tienes una lista de tecnologías con las que trabajo y habilidades que poseo!
+
+- 💻 Lenguajes de programación: JavaScript, Python, Ruby, etc.
+- 🌐 Desarrollo web: HTML, CSS, React, Node.js, etc.
+- 🛢️ Bases de datos: MySQL, MongoDB, PostgreSQL, etc.
+- 🧰 Herramientas y Frameworks: Git, VSCode, Django, etc.
+- ☁️ Cloud Computing: AWS, Azure, Google Cloud, etc.
+
+
 ## Contacto
 
 Si deseas colaborar en proyectos emocionantes, aprender juntos o simplemente charlar sobre tecnología, ¡no dudes en contactarme!
