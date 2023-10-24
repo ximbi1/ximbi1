@@ -18,7 +18,7 @@
 ## Proyectos Destacados
 
 Aquí te muestro algunos de mis proyectos más destacados:
-- [![XimbiLand](https://static.wixstatic.com/media/3dcf19_14aa7649e83240019cc7277aa6711317~mv2_d_1336_1834_s_2.png/v1/fill/w_452,h_620,al_c,q_85,usm_1.20_1.00_0.01,enc_auto/3dcf19_14aa7649e83240019cc7277aa6711317~mv2_d_1336_1834_s_2.png){width=100px}](https://ximbiland.ximbi1.repl.co/): Proyecto en desarrollo inspirado en club penguin.
+- [![XimbiLand](https://i.redd.it/3gqav2bjqp191.png)](https://ximbiland.ximbi1.repl.co/): Proyecto en desarrollo inspirado en club penguin.
 - [StudyBuddy](https://studybuddy.ximbi1.repl.co): Una sencilla pagina para usar cuando estudias que incorpora musica relajante de fondo con un fondo tranquilo.
 - [CalmTrip](https://fondos.ximbi1.repl.co): Pagina web para Meta Quest2 donde te mueves por distintos escenarios con musica de fondo.
 - [UpTempo](https://tiempo.ximbi1.repl.co/): Pagina donde puedes consultar la temperatura entre otra informacion en tiempo real.
