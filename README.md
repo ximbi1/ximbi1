@@ -30,6 +30,9 @@ Aquí te muestro algunos de mis proyectos más destacados:
 ## Estadisticas de Lenguaje usados:
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ximbi1&layout=compact)
 
+## Ultimo commit: 
+![Último Commit](https://img.shields.io/github/last-commit/ximbi1/tu_repositorio)
+
 
 ## Habilidades y Tecnologías
 
