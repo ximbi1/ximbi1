@@ -66,12 +66,6 @@ Aquí te muestro algunos de mis proyectos más destacados:
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
 </div>
 
-- 💻 Lenguajes de programación: JavaScript, Python, Ruby, etc.
-- 🌐 Desarrollo web: HTML, CSS, React, Node.js, etc.
-- 🛢️ Bases de datos: MySQL, MongoDB, PostgreSQL, etc.
-- 🧰 Herramientas y Frameworks: Git, VSCode, Django, etc.
-- ☁️ Cloud Computing: AWS, Azure, Google Cloud, etc.
-
 ![Linkedin](https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif)(linkedin.com)
 
 
