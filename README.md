@@ -5,7 +5,7 @@
 
 ## Acerca de mí
 
-¡Gracias por visitar mi perfil! Soy [Tu Nombre], un apasionado de la tecnología y el desarrollo de software. Aquí encontrarás una variedad de proyectos emocionantes en los que he estado trabajando.
+¡Gracias por visitar mi perfil! Soy [Tu Nombre], un apasionado de la tecnología y el desarrollo de software. Aquí encontrarás una variedad de proyectos emocionantes en los que he estado trabajando..
 
 - 🔭 Actualmente estoy trabajando en [proyecto/empleado actual].
 - 🌱 Estoy aprendiendo [tema emocionante].
