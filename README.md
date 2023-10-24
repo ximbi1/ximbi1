@@ -27,6 +27,13 @@ Aquí te muestro algunos de mis proyectos más destacados:
 
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ximbi1&show_icons=true&theme=radical)](https://github.com/ximbi1)
 
+## Estadisticas de Lenguaje usados:
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ximbi1&layout=compact)
+
+
+## Estadisticas de Actividad:
+![Gráfico de Actividad](https://activity-graph.herokuapp.com/graph?username=ximbi1)
+
 
 ## Habilidades y Tecnologías
 
