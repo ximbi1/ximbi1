@@ -18,21 +18,22 @@
 ## Proyectos Destacados
 
 Aquí te muestro algunos de mis proyectos más destacados:
-
-- [![StudyBuddy](https://studybuddy.ximbi1.repl.co): Una sencilla pagina para usar cuando estudias que incorpora musica relajante de fondo con un fondo tranquilo.
-- [![CalmTrip](https://fondos.ximbi1.repl.co): Pagina web para Meta Quest2 donde te mueves por distintos escenarios con musica de fondo.
-- [![SpaceChat](https://space.ximbi1.repl.co/): Chat en vivo usando socket.io que admite ciertos comandos entre otras funciones.
-- [![ChatRoom](https://chat.ximbi1.repl.co/): Chat echo con PHP que mantiene las conversaciones antiguas ya que se usa un fichero coo medio, tiene varias salas de chat y sigue en desarrollo.
+- [!XimbiLand](https://static.wixstatic.com/media/3dcf19_14aa7649e83240019cc7277aa6711317~mv2_d_1336_1834_s_2.png/v1/fill/w_452,h_620,al_c,q_85,usm_1.20_1.00_0.01,enc_auto/3dcf19_14aa7649e83240019cc7277aa6711317~mv2_d_1336_1834_s_2.png)](https://ximbiland.ximbi1.repl.co/): Proyecto en desarrollo inspirado en club penguin.
+- [StudyBuddy](https://studybuddy.ximbi1.repl.co): Una sencilla pagina para usar cuando estudias que incorpora musica relajante de fondo con un fondo tranquilo.
+- [CalmTrip](https://fondos.ximbi1.repl.co): Pagina web para Meta Quest2 donde te mueves por distintos escenarios con musica de fondo.
+- [UpTempo](https://tiempo.ximbi1.repl.co/): Pagina donde puedes consultar la temperatura entre otra informacion en tiempo real.
+- [SpaceChat](https://space.ximbi1.repl.co/): Chat en vivo usando socket.io que admite ciertos comandos entre otras funciones.
+- [ChatRoom](https://chat.ximbi1.repl.co/): Chat echo con PHP que mantiene las conversaciones antiguas ya que se usa un fichero coo medio, tiene varias salas de chat y sigue en desarrollo.
 
 ## Estadísticas de GitHub
 
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ximbi1&show_icons=true&theme=radical)](https://github.com/ximbi1)
 
 ## Estadisticas de Lenguaje usados:
-[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ximbi1&layout=compact)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ximbi1&layout=compact)
 
 ## Ultimo commit: 
-[![Último Commit](https://img.shields.io/github/last-commit/ximbi1/space)
+![Último Commit](https://img.shields.io/github/last-commit/ximbi1/space)
 
 
 ## Habilidades y Tecnologías
