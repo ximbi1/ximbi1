@@ -16,15 +16,17 @@
 - 😄 Pronombres: XIMBI.
 - ⚡ Dato curioso: Inspiracion Nocturna.
 
+  
+
 ## Proyectos Destacados
 
 Aquí te muestro algunos de mis proyectos más destacados:
-- [XimbiLand](https://ximbiland.ximbi1.repl.co/): Pagina web ambientada a club penguin para interactuar con otra gente, esta en desarrollo.
-- [StudyBuddy](https://studybuddy.ximbi1.repl.co): Una sencilla pagina para usar cuando estudias que incorpora musica relajante de fondo con un fondo tranquilo.
-- [CalmTrip](https://fondos.ximbi1.repl.co): Pagina web para Meta Quest2 donde te mueves por distintos escenarios con musica de fondo.
-- [UpTempo](https://tiempo.ximbi1.repl.co/): Pagina donde puedes consultar la temperatura entre otra informacion en tiempo real.
-- [SpaceChat](https://space.ximbi1.repl.co/): Chat en vivo usando socket.io que admite ciertos comandos entre otras funciones.
-- [ChatRoom](https://chat.ximbi1.repl.co/): Chat echo con PHP que mantiene las conversaciones antiguas ya que se usa un fichero coo medio, tiene varias salas de chat y sigue en desarrollo.
+- <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/> [XimbiLand](https://ximbiland.ximbi1.repl.co/): Pagina web ambientada a club penguin para interactuar con otra gente, esta en desarrollo.
+- <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/> [StudyBuddy](https://studybuddy.ximbi1.repl.co): Una sencilla pagina para usar cuando estudias que incorpora musica relajante de fondo con un fondo tranquilo.
+- <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/> [CalmTrip](https://fondos.ximbi1.repl.co): Pagina web para Meta Quest2 donde te mueves por distintos escenarios con musica de fondo.
+- <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/> [UpTempo](https://tiempo.ximbi1.repl.co/): Pagina donde puedes consultar la temperatura entre otra informacion en tiempo real.
+- <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/> [SpaceChat](https://space.ximbi1.repl.co/): Chat en vivo usando socket.io que admite ciertos comandos entre otras funciones.
+- <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/> [ChatRoom](https://chat.ximbi1.repl.co/): Chat echo con PHP que mantiene las conversaciones antiguas ya que se usa un fichero coo medio, tiene varias salas de chat y sigue en desarrollo.
 
 ![](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
 
@@ -66,6 +68,5 @@ Aquí te muestro algunos de mis proyectos más destacados:
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
 </div>
 
-![Linkedin](https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif)(linkedin.com)
 
 
