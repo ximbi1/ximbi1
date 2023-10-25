@@ -27,6 +27,7 @@ Aquí te muestro algunos de mis proyectos más destacados:
 - <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/> [UpTempo](https://tiempo.ximbi1.repl.co/): Pagina donde puedes consultar la temperatura entre otra informacion en tiempo real.
 - <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/> [SpaceChat](https://space.ximbi1.repl.co/): Chat en vivo usando socket.io que admite ciertos comandos entre otras funciones.
 - <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/> [ChatRoom](https://chat.ximbi1.repl.co/): Chat echo con PHP que mantiene las conversaciones antiguas ya que se usa un fichero coo medio, tiene varias salas de chat y sigue en desarrollo.
+- <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/> [AllIn]: de las primeras paginas que hice,un poco un todo en uno.
 
 ![](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
 
