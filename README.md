@@ -173,30 +173,53 @@ Estos son algunos de mis proyectos más representativos (algunos privados, otros
 
 
 ---
-
+ 
 - <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/> **PHPGenius** *(en desarrollo)*  
   **El ecosistema definitivo para PHP.**  
-  PHPGenius nace para resolver una necesidad real: trabajar con proyectos PHP y sus frameworks de forma moderna y ágil.  
-  Incluye:  
-  - Generación automática de proyectos listos para producción.  
-  - Editor en tiempo real con IA para responder dudas, corregir y aplicar código.  
-  - Terminal integrada y vista previa en vivo.  
-  - Sistema de cuentas freemium con planes premium para equipos y empresas.  
+  PHPGenius nace para resolver una necesidad real: dar a los desarrolladores un entorno moderno, ágil y especializado en **PHP y sus frameworks (Laravel, Symfony, CodeIgniter, etc.)**, unificando herramientas que normalmente están dispersas.  
 
-  En el futuro será también un espacio de comunidad, marketplace de plantillas y un modo enseñanza para quienes empiezan en PHP.  
-  **Una mezcla entre IDE, SaaS y plataforma de aprendizaje.**
+  ### 🧩 ¿Qué incluye?
+  - ⚙️ **Generación automática de proyectos**:  
+    - Configuración inicial lista para producción.  
+    - Estructuras base para Laravel, Symfony, Lumen o proyectos puros de PHP.  
+    - Archivos de configuración preoptimizados (Docker, Composer, .env).  
+    - Integración directa con GitHub para versionado y despliegues.  
 
----
+  - 🖥️ **Backend completo listo desde el inicio**:  
+    - **Bases de datos**: define tus modelos en lenguaje natural y PHPGenius genera las migraciones, esquemas y relaciones.  
+    - **APIs REST y GraphQL**: endpoints generados automáticamente con autenticación y control de permisos.  
+    - **Autenticación y seguridad**: login, roles de usuario, tokens JWT, OAuth2 listos para usar.  
+    - **Servicios de negocio**: lógica estructurada en controladores, repositorios y servicios listos para extender.  
+    - **Testing integrado**: tests unitarios y de integración generados automáticamente para asegurar calidad.  
 
-- <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/> **Reordéname** *(app web)*  
-  **Organización adaptada a la mente real.**  
-  Reordéname es un organizador emocional y adaptativo, pensado especialmente para personas con **TDAH o dificultades para estructurar su vida**.  
-  En lugar de imponer rutinas rígidas, la app propone un enfoque flexible:  
-  - Recordatorios dinámicos.  
-  - Rutinas ajustables al estado de ánimo y energía.  
-  - Planes a corto y largo plazo que evolucionan contigo.  
+  - 🤖 **Editor en tiempo real con IA**:  
+    - Basado en Monaco, con IA integrada que responde dudas, propone correcciones y sugiere refactors.  
+    - Explicación de funciones, clases y patrones en lenguaje natural.  
+    - Autogeneración de documentación, ejemplos y casos de uso para tus endpoints y modelos.  
 
-  Más que una agenda, busca ser un **acompañante digital que ayuda a reducir la carga mental** y a construir hábitos poco a poco.  
+  - 🖥️ **Terminal integrada y preview en vivo**:  
+    - Ejecuta Artisan, Composer y comandos PHP directamente desde la interfaz.  
+    - Logs y debugging en tiempo real con IA que interpreta errores y sugiere soluciones.  
+    - Vista previa inmediata de endpoints y front integrado.  
+
+  - 👥 **Sistema de cuentas freemium**:  
+    - Plan gratuito con límites de proyectos.  
+    - Planes premium para equipos, con proyectos privados, colaboración en tiempo real y recursos ampliados.  
+
+  ### 🚀 Futuro del proyecto
+  - 🌐 **Espacio de comunidad**: foro de desarrolladores PHP para compartir plantillas, resolver dudas y colaborar.  
+  - 🛒 **Marketplace de plantillas**: plantillas listas (dashboards, e-commerce, APIs REST, CRMs) para acelerar proyectos reales.  
+  - 🎓 **Modo enseñanza**: entorno guiado para aprender PHP y frameworks con ejercicios prácticos, retos y feedback automático.  
+
+  ### 🎯 Objetivo
+  PHPGenius no es solo un editor ni un boilerplate generator:  
+  - Es un **IDE moderno especializado en PHP**,  
+  - Un **ecosistema backend completo** que genera bases de datos, APIs y lógica de negocio,  
+  - Una **plataforma SaaS colaborativa** para equipos,  
+  - Y un **espacio educativo** para la próxima generación de devs.  
+
+  En resumen: **una mezcla entre IDE, SaaS y academia**, diseñada para que trabajar con PHP —desde el frontend hasta el backend completo— sea más rápido, más claro y mucho más productivo.
+
 
 ---
 
