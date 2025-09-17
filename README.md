@@ -6,28 +6,48 @@
 
 ## Acerca de mí
 
-¡Gracias por visitar mi perfil! Soy XIMBI , un apasionado de la tecnología y el desarrollo de software. Aquí encontrarás una variedad de proyectos emocionantes en los que he estado trabajando.
+¡Gracias por visitar mi perfil! Soy **XIMBI**, un apasionado de la tecnología, DevOps Engineer y creador de proyectos innovadores.  
+Aquí comparto una parte de lo que me motiva: construir herramientas útiles, aprender constantemente y disfrutar del proceso.
 
-- 🔭 Actualmente estoy trabajando en SRSRAN Spain como DevOps y Tester en el sector de Telecomunicaciones.
-- 🌱 Estoy aprendiendo Desarrollo de aplicaciones web, creacion de servidores, apis, etc.
-- 👯 Estoy abierto a colaboraciones y proyectos interesantes.
-- 💬 Puedes preguntarme todo lo que quieras de informatica, intentare ayudar!.
-- 📫 Puedes contactarme a través de asmes0asmes@gmail.com.
-- 😄 Pronombres: XIMBI.
-- ⚡ Dato curioso: Inspiracion Nocturna.
+- 🔭 Actualmente trabajo en **Software Radio Systems (SRSRAN Spain)** como **DevOps / IT Ops Engineer** en el sector de telecomunicaciones.
+- 🌱 Aprendiendo y creando: Kubernetes, infra distribuida, CI/CD, apps web, proyectos con IA entre otros.
+- 👯 Abierto a colaborar en proyectos open source y side-projects con impacto real.
+- 💬 Pregúntame de infra, DevOps, desarrollo web o apps: siempre disfruto compartiendo conocimiento.
+- 📫 Contacto: **asmes0asmes@gmail.com**
+- 😄 Pronombres: **XIMBI**
+- ⚡ Fun fact: la inspiración me visita más fuerte de noche 🌙
 
-  
+---
 
-## Proyectos Destacados
+## 🚀 Proyectos Destacados
 
-Aquí te muestro algunos de mis proyectos más destacados:
-- <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/> [XimbiLand](https://ximbiland.ximbi1.repl.co/): Pagina web ambientada a club penguin para interactuar con otra gente, esta en desarrollo.
-- <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="36" height="25"/> [StudyBuddy](https://studybuddy.ximbi1.repl.co): Una sencilla pagina para usar cuando estudias que incorpora musica relajante de fondo con un fondo tranquilo.
-- <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/> [CalmTrip](https://fondos.ximbi1.repl.co): Pagina web para Meta Quest2 donde te mueves por distintos escenarios con musica de fondo.
-- <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/> [UpTempo](https://tiempo.ximbi1.repl.co/): Pagina donde puedes consultar la temperatura entre otra informacion en tiempo real.
-- <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/> [SpaceChat](https://space.ximbi1.repl.co/): Chat en vivo usando socket.io que admite ciertos comandos entre otras funciones.
-- <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/> [ChatRoom](https://chat.ximbi1.repl.co/): Chat echo con PHP que mantiene las conversaciones antiguas ya que se usa un fichero coo medio, tiene varias salas de chat y sigue en desarrollo.
-- <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/> [AllIn](https://pgwp.ximbi1.repl.co/): de las primeras paginas que hice,un poco un todo en uno.
+Estos son algunos de mis proyectos más representativos (algunos privados, otros en desarrollo):
+
+- <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/> **Supaterm**  
+  Terminal inteligente con agentes de IA, memoria y multi-sesión. Diseñado para potenciar la productividad en DevOps.  
+
+- <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/> **Neurocode IDE**  
+  Editor de código con IA integrada (basado en Monaco), autocompletado avanzado, memoria contextual y soporte para múltiples lenguajes.  
+
+- <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/> **CursorX**  
+  IDE inspirado en Cursor.dev, creado con Electron/React, con integración multi-agente, vista previa en tiempo real y soporte de proyectos locales.  
+
+- <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/> **InfraDash**  
+  Dashboard en Python para monitorización de Kubernetes y Proxmox, con métricas en tiempo real, logs y paneles interactivos.  
+
+- <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/> **PDU-Checker**  
+  Sistema automatizado en Python + GitLab CI para monitorizar PDUs, generar alertas en Slack y gestionar la energía de racks en infra crítica.  
+
+- <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/> **PHPGenius** *(en desarrollo)*  
+  Plataforma estilo Lovable pero enfocada en **PHP y sus frameworks**. Permite generar proyectos, editar en tiempo real con IA, vista previa, terminal integrada y sistema freemium.  
+
+- <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/> **Reordéname** *(app web)*  
+  Organizador emocional adaptativo para personas con TDAH o dificultades para estructurar su vida. Modelo freemium con planes mensual, anual y lifetime.  
+
+- <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/> **Dime Qué Hago** *(app móvil/web)*  
+  Herramienta para indecisos del día a día: ruletas, dados, filtros por energía/estado de ánimo, log de decisiones y recompensas.  
+
+---
 
 ![](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
 
