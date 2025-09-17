@@ -18,34 +18,109 @@ Aquí comparto una parte de lo que me motiva: construir herramientas útiles, ap
 - ⚡ Fun fact: la inspiración me visita más fuerte de noche 🌙
 
 ---
-
 ## 🚀 Proyectos Destacados
 
-Estos son algunos de mis proyectos más representativos (algunos privados, otros en desarrollo):
+Estos son algunos de mis proyectos más representativos (algunos privados, otros en desarrollo). Cada uno refleja una mezcla de **creatividad + ingeniería**, pensados para resolver problemas reales con un toque diferente:
+
+---
 
 - <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/> **Supaterm**  
-  Terminal inteligente con agentes de IA, memoria y multi-sesión. Diseñado para potenciar la productividad en DevOps.  
+  **La terminal reimaginada.**  
+  Supaterm no es una shell más: es un entorno de trabajo potenciado por IA que combina **agentes inteligentes**, **memoria contextual** y soporte para **multi-sesión**.  
+  El objetivo es transformar la línea de comandos en un asistente vivo que entiende lo que haces, recuerda el estado de tu sesión y puede anticipar tus necesidades.  
+  Pensado para DevOps e ingenieros que gestionan infra compleja, Supaterm convierte la terminal en un **espacio conversacional y adaptativo**.
+
+---
 
 - <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/> **Neurocode IDE**  
-  Editor de código con IA integrada (basado en Monaco), autocompletado avanzado, memoria contextual y soporte para múltiples lenguajes.  
+  **Un editor que piensa contigo.**  
+  Neurocode es un IDE basado en Monaco pero con una diferencia clave: incorpora **IA con memoria persistente del proyecto**.  
+  No se limita a autocompletar, sino que entiende tu estilo de programación, el historial de tu repo y la lógica de lo que estás construyendo.  
+  Soporta múltiples lenguajes y te permite mantener un flujo de trabajo natural, como si siempre tuvieras un compañero de equipo revisando tu código en tiempo real.  
+  El propósito: **reducir la fricción al programar y aumentar la productividad sin perder control humano.**
+
+---
 
 - <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/> **CursorX**  
-  IDE inspirado en Cursor.dev, creado con Electron/React, con integración multi-agente, vista previa en tiempo real y soporte de proyectos locales.  
+  **El futuro del desarrollo asistido por IA.**  
+  Inspirado en Cursor.dev pero creado con **Electron y React**, CursorX busca ser un IDE de nueva generación.  
+  Integra asistentes multi-agente que colaboran entre sí, vista previa instantánea y soporte completo para proyectos locales.  
+  El resultado es un editor inmersivo donde el programador no solo escribe código: **diseña, prueba y despliega en un mismo espacio, con la IA como copiloto pero nunca como reemplazo.**
+
+---
 
 - <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/> **InfraDash**  
-  Dashboard en Python para monitorización de Kubernetes y Proxmox, con métricas en tiempo real, logs y paneles interactivos.  
+  **Visibilidad sin sobrecarga.**  
+  InfraDash es un dashboard ligero en Python para **monitorizar Kubernetes y Proxmox**.  
+  A diferencia de soluciones pesadas, aquí la prioridad es la **simplicidad y rapidez**: métricas en tiempo real, logs claros y paneles interactivos que muestran lo que realmente importa.  
+  Está pensado para equipos que no necesitan un monstruo como Grafana, sino una herramienta enfocada en la **resolución inmediata de problemas.**
+
+---
 
 - <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/> **PDU-Checker**  
-  Sistema automatizado en Python + GitLab CI para monitorizar PDUs, generar alertas en Slack y gestionar la energía de racks en infra crítica.  
+  **La electricidad bajo control.**  
+  En entornos de racks y telecomunicaciones, una PDU que falla puede provocar un desastre.  
+  PDU-Checker automatiza la supervisión energética con **Python + GitLab CI**, comprobando el estado de cada unidad, generando alertas en Slack y evitando tiempos muertos críticos.  
+  Es un ejemplo de cómo una solución pequeña y precisa puede marcar una gran diferencia en la **estabilidad de la infraestructura.**
+
+---
 
 - <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/> **PHPGenius** *(en desarrollo)*  
-  Plataforma estilo Lovable pero enfocada en **PHP y sus frameworks**. Permite generar proyectos, editar en tiempo real con IA, vista previa, terminal integrada y sistema freemium.  
+  **El ecosistema definitivo para PHP.**  
+  PHPGenius nace para resolver una necesidad real: trabajar con proyectos PHP y sus frameworks de forma moderna y ágil.  
+  Incluye:  
+  - Generación automática de proyectos listos para producción.  
+  - Editor en tiempo real con IA para responder dudas, corregir y aplicar código.  
+  - Terminal integrada y vista previa en vivo.  
+  - Sistema de cuentas freemium con planes premium para equipos y empresas.  
+
+  En el futuro será también un espacio de comunidad, marketplace de plantillas y un modo enseñanza para quienes empiezan en PHP.  
+  **Una mezcla entre IDE, SaaS y plataforma de aprendizaje.**
+
+---
 
 - <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/> **Reordéname** *(app web)*  
-  Organizador emocional adaptativo para personas con TDAH o dificultades para estructurar su vida. Modelo freemium con planes mensual, anual y lifetime.  
+  **Organización adaptada a la mente real.**  
+  Reordéname es un organizador emocional y adaptativo, pensado especialmente para personas con **TDAH o dificultades para estructurar su vida**.  
+  En lugar de imponer rutinas rígidas, la app propone un enfoque flexible:  
+  - Recordatorios dinámicos.  
+  - Rutinas ajustables al estado de ánimo y energía.  
+  - Planes a corto y largo plazo que evolucionan contigo.  
+
+  Más que una agenda, busca ser un **acompañante digital que ayuda a reducir la carga mental** y a construir hábitos poco a poco.  
+
+---
 
 - <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/> **Dime Qué Hago** *(app móvil/web)*  
-  Herramienta para indecisos del día a día: ruletas, dados, filtros por energía/estado de ánimo, log de decisiones y recompensas.  
+  **La indecisión convertida en juego.**  
+  ¿Cuántas veces nos quedamos atrapados en un “¿y ahora qué hago?”. Esta app responde a esa pregunta de forma divertida.  
+  Incluye:  
+  - Ruletas y dados para decidir al azar.  
+  - Filtros según tu energía, ánimo o contexto.  
+  - Recompensas y logros para motivarte a seguir lo que decidas.  
+  - Diario de decisiones para reflexionar y descubrir patrones.  
+
+  El resultado: convertir lo cotidiano en un juego que mezcla **utilidad con entretenimiento**.
+
+---
+
+- <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/> **SparkAI**  
+  **El constructor de apps inteligente.**  
+  SparkAI es una plataforma tipo *Lovable*, diseñada para crear aplicaciones completas con ayuda de la IA.  
+  El flujo es sencillo: describes lo que quieres construir, y SparkAI genera una propuesta estructurada con apartados, fases y prioridades.  
+  Una vez validado, el sistema te acompaña paso a paso, asegurando que cada módulo (frontend, backend, base de datos, APIs) se cree en orden lógico.  
+  Su valor está en que **no genera código desordenado**, sino proyectos escalables y organizados desde el inicio, listos para crecer o integrarse en entornos reales.  
+  Es como tener un **product manager + arquitecto de software + copiloto de código** en una sola herramienta.
+
+---
+
+- <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/> **DreamPixel Studio**  
+  **El taller de juegos con IA.**  
+  DreamPixel Studio es un **game builder potenciado por IA** donde puedes crear un juego web completo sin salir de la plataforma.  
+  La IA genera assets visuales, texturas, personajes y escenarios directamente en el mismo entorno, evitando depender de múltiples herramientas externas.  
+  Además, puedes **probar el juego en vivo mientras lo construyes**, ajustando mecánicas, diseño y narrativa en tiempo real.  
+  El objetivo es reducir las barreras de entrada al desarrollo de videojuegos, permitiendo que tanto creativos como developers se centren en las ideas, mientras la IA agiliza la parte técnica y repetitiva.  
+  Un espacio donde la imaginación se convierte rápidamente en un prototipo jugable.
 
 ---
 
